@@ -1,4 +1,5 @@
 # mill-multi-file-bug
+## Archived this, See: https://github.com/com-lihaoyi/mill/discussions/3349#discussioncomment-11668659
 To reproduce the bug, run `mill bar.runMain hello.Hello` and it output:
 ```shell
 $ mill bar.runMain hello.Hello
